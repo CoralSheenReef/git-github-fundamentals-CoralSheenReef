@@ -1,6 +1,6 @@
 # Carlsean Claricia
 # 025802424
-# Second attempt to commit
+# Trying to commit and push using terminal commands
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
